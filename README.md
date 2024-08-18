@@ -1,4 +1,4 @@
-WeatherApp: Current Weather Conditions and City-based Forecast
+# WeatherApp: Current Weather Conditions and City-based Forecast
 
 # How to Use
 
